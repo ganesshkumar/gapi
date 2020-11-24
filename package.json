@@ -1,0 +1,22 @@
+{
+  "name": "@ganesshkumar/gapi",
+  "version": "0.0.5",
+  "description": "A thin Node wrapper for Google's client-side javascript V3 API",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ganesshkumar/gapi.git"
+  },
+  "keywords": [
+    "google",
+    "api",
+    "gapi"
+  ],
+  "author": "Ganessh Kumar R P <rpganesshkumar@gmail.com> (https://ganesshkumar.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ganesshkumar/gapi/issues"
+  },
+  "homepage": "https://github.com/ganesshkumar/gapi#readme"
+}
