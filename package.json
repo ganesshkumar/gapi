@@ -1,6 +1,6 @@
 {
   "name": "@ganesshkumar/gapi",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A thin Node wrapper for Google's client-side javascript V3 API",
   "main": "index.js",
   "types": "index.d.ts",
